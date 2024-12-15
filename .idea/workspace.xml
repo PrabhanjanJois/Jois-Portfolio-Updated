@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d8ae502-fb48-4f0b-8700-40f644c7cb0c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/sections/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/sections/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1734257807547</updated>
       <workItem from="1734257809608" duration="1811000" />
-      <workItem from="1734259646581" duration="320000" />
+      <workItem from="1734259646581" duration="718000" />
     </task>
     <servers />
   </component>
