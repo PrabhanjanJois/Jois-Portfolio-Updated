@@ -13,17 +13,17 @@ export const metadata: Metadata = {
   description: "My Portfolio for my skills display",
 };
 export default function RootLayout({
-                                     children,
-                                   }: Readonly<{
+  children,
+}: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-      <html lang="en">
+    <html lang="en">
       <body
-          className={`${inter.variable} ${calistoga.variable} bg-gray-900 text-white antialiased font-sans`}
+        className={`${inter.variable} ${calistoga.variable} bg-gray-900 text-white antialiased font-sans`}
       >
-      {children}
+        {children}
       </body>
-      </html>
+    </html>
   );
 }
